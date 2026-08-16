@@ -1,0 +1,34 @@
+{
+  "resumes": [
+    {
+      "id": "r1",
+      "title": "Software Developer Resume",
+      "template": "Modern",
+      "updatedAt": "2026-08-16",
+      "personal": {
+        "name": "Your Name",
+        "email": "you@example.com",
+        "phone": "+91 98765xxxxx21",
+        "location": "India",
+        "summary": "Computer science graduate interested in software development."
+      },
+      "education": [],
+      "skills": ["Java", "JavaScript", "React", "Node.js"],
+      "projects": []
+    }
+  ],
+  "applications": [
+    {
+      "id": "a1",
+      "company": "Example Technologies",
+      "role": "Software Developer",
+      "status": "Applied",
+      "date": "2026-08-16"
+    }
+  ],
+  "templates": [
+    {"id": "t1", "name": "Modern", "description": "Clean single-column resume"},
+    {"id": "t2", "name": "Classic", "description": "Traditional professional resume"},
+    {"id": "t3", "name": "Minimal", "description": "Simple ATS-friendly resume"}
+  ]
+}
